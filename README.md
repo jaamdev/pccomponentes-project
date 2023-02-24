@@ -2,7 +2,7 @@
 
 PcComponentes es una tienda online de venta de tecnología como componentes y periféricos para ordenadores.
 
-## Porqué lo hice:
+## Por qué lo hice:
 Me pareció un buen reto el intentar recrear un sitio web como este y que se le pareciera aunque sea solo un poco, pero al final me quedé bastante satisfecho con el resultado y me sirvió para practicar HTML y CSS.
 
 [![Sitio Original](https://img.shields.io/static/v1?label=&message=Sitio%20Original&color=FF0000&style=for-the-badge)](https://www.pccomponentes.com)
